@@ -23,7 +23,7 @@ namespace WebApplicationWhatever.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Privacyaa()
         {
             return View();
         }
